@@ -1,3 +1,7 @@
-# CSE 373 HW4
+# CSE 373 HW4: HASHING WITH CHAINING
 
-Please see the assignment page on the course website for instructions on this assignment.
+### OVERVIEW
+
+- Implement a hash map and hash set with chaining
+- Design unit tests for the associated data structures using JUnit
+
