@@ -1,4 +1,4 @@
-# CSE 373 HW4: HASHING WITH CHAINING
+# CSE 373 HW4: Hashing With Chaining
 
 ### OVERVIEW
 
