@@ -1,6 +1,6 @@
 # CSE 373 HW2: Abstract Syntax Tree Calculator 
 
-### Overview:
+### OVERVIEW
 
 - Review material from CSE 143 (array lists, linked lists, dictionaries, recursion, and tree manipulation)
 - Practice working with iterators, generics, and interfaces
