@@ -1,4 +1,4 @@
-# CSE 373 HW2: Abstract Syntax Tree Calculator 
+## CSE 373 HW2: Abstract Syntax Tree Calculator 
 
 ### Overview
 
