@@ -1,4 +1,4 @@
-# CSE 373: DATA STRUCTURES AND ALGORITHMS
+## CSE 373: DATA STRUCTURES AND ALGORITHMS
 
 **Data structures and ADTs:** <br>
 lists, dictionaries, trees, balanced trees, AVL trees, hash tables, priority queues, binary heaps, disjoint sets<br>
