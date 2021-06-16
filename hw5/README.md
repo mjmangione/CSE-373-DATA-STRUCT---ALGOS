@@ -1,4 +1,4 @@
-# CSE 373 HW5: Search Engine
+## CSE 373 HW5: Search Engine
 
 ### Overview
 - Implement TF-IDF ranking, an algorithm for computing how relevant a query is to a document
