@@ -1,3 +1,6 @@
-# CSE 373 HW7
+## CSE 373 HW7
 
-Please see the assignment page on the course website for instructions on this assignment.
+#### Overview
+- Implement and test data structures for graphs and disjoint sets (adjacency list and array disjoint set respectively) 
+- Use Kruskal's minimum spanning tree algorithm to generate mazes
+- Use Dijkstra's algorithm to solve them
